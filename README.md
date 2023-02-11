@@ -15,17 +15,27 @@ The mock census  contains randomly generate data using the Faker package in
 Python. It has been generated in a similar manner to (and designed to directly emulate the format of) 
 the 1881 census of the UK wherein only a few questions were asked of the population. The fields 
 recorded are as follows: 
-(1)  Street Number (this is set to “1” if it is a unique dwelling); 
-(2)  Street Name; 
-(3)  First Name of occupant; 
-(4)  Surname of occupant; 
-(5)  Age of occupant; 
+(1)  Street Number (this is set to “1” if it is a unique dwelling)
+
+(2)  Street Name
+
+(3)  First Name of occupant
+
+(4)  Surname of occupant
+
+(5)  Age of occupant
+
 (6)  Relationship to the “Head” of the household (anyone aged over 18 can be a “Head” – they are 
-simply the person who had the responsibility to fill in the census details); 
-(7)  Marital status (one of: Single, Married, Divorced, Widowed, or “NA” in the case of minors); 
-(8)  Gender (one of: Male, Female; note that other responses were not implemented in 1881); 
+simply the person who had the responsibility to fill in the census details)
+
+(7)  Marital status (one of: Single, Married, Divorced, Widowed, or “NA” in the case of minors)
+
+(8)  Gender (one of: Male, Female; note that other responses were not implemented in 1881)
+
 (9)  Occupation (this field was implemented in a modern style, rather than typical 1881 
-occupations); 
-(10) Infirmity (we have implemented a limited set of infirmities following the style of 1881); 
-(11) Religion (we have implemented a set of real-world religions).  
+occupations)
+
+(10) Infirmity (we have implemented a limited set of infirmities following the style of 1881)
+
+(11) Religion (we have implemented a set of real-world religions)
 
