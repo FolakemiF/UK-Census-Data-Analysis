@@ -1,4 +1,4 @@
-# Project Background Information. 
+# Project Background Information
 Every ten years, the United Kingdom undertakes a census of the population, with the most recent one 
 having been conducted in 2021. The purpose of such a census is to compare different people across the 
 nation and to provide the government with accurate statistics of the population to enable better 
